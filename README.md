@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on fun and open source projects
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Coffee is my drug
 
 <!---
