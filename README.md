@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akmoradi
-- 👀 I’m interested in all things software
+- 👀 I’m interested in all things software and AI
 - 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on fun and open source projects
 - 📫 How to reach me ...
