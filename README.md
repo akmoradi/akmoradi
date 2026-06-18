@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akmoradi
-- 👀 I’m interested in Python programming and AI
-- 🌱 I’m currently learning full-stack development
-- 💞️ I’m looking to collaborate on fun and open source projects
+- 👀 interested in Python programming and AI
+- 🌱 currently learning backend development
+- 💞️ looking to collaborate on fun and open source projects
 
 
 <!---
